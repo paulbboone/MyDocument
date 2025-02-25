@@ -1,0 +1,5 @@
+I worked at CJ OliveNetworks Vina as a business analyst intern. Here, I was involved in supporting some related tasks in the V-Pictures project. Specifically: 
+- Analysis of business process and suggestion of better business process for system.
+- Screen design for contract management.
+- Find bug for the project. 
+- Write customer test case, perform test for each screen/ function.
